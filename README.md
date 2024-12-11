@@ -69,7 +69,7 @@ python3 main.py
    - Pastikan Python terinstal di komputer Anda.
    - Jalankan program dengan mengetik:
      ```bash
-     python kalkulator.py
+     python main.py
      ```
 
 2. **Navigasi Menu**:
