@@ -11,7 +11,6 @@
 <h1 align="center">PROJECT AKHIR PYTHON</h1>
 
 Proyek ini adalah sebuah aplikasi kalkulator sederhana berbasis **CLI (Command Line Interface)** yang dibuat menggunakan Python. Kalkulator ini mendukung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Selain itu, program ini dilengkapi dengan fitur riwayat perhitungan, tutorial, serta informasi kontak developer.
-
 Proyek ini merupakan **Project Akhir 2024** dari **11 TKJ 1 SMEKSA**.
 
 ---
@@ -102,6 +101,6 @@ Program ini menggunakan beberapa modul Python. Pastikan semua modul berikut suda
 - Kalkulator ini dibuat untuk **Project Akhir Tahun 2024** jurusan TKJ 1.  
 - Awal pembuatan kalkulator ini bukan hanya untuk project akhir, tetapi juga karena keinginan saya untuk belajar dan mengeksplorasi hal baru.  
 - Kalkulator Python ini dibuat oleh **Marvell**, dengan bantuan **AI** dan **teman-teman saya**.  
-- Ke depan, saya berencana mengupdate kalkulator ini untuk meningkatkan skill saya dalam pemrograman Python.  
-- Saya, Marvell, mengucapkan terima kasih kepada **Bu Alfi** dan teman-teman yang sudah membantu serta memberikan ilmu kepada saya.  
+- Ke depannya saya berencana mengupdate kalkulator ini untuk meningkatkan skill saya dalam pemrograman Python.  
+- Saya, Marvell, mengucapkan terima kasih kepada **Bu Alfi** dan **teman-teman** yang sudah membantu serta memberikan ilmu kepada saya.  
 - **Terima kasih banyak untuk semua pihak yang telah mendukung saya!**  
