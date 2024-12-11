@@ -88,9 +88,8 @@ Program ini menggunakan beberapa modul Python. Pastikan semua modul berikut suda
 
 ### Informasi
 - **Kalkulator Python v.1** adalah kalkulator sederhana yang menggunakan script Python sepenuhnya sehingga mudah dipahami dan bersifat open source untuk diedit.  
-- Kalkulator ini dibuat untuk **Project Akhir Tahun 2024** jurusan TKJ 1.  
-- Awal pembuatan kalkulator ini bukan hanya untuk project akhir, tetapi juga karena keinginan saya untuk belajar dan mengeksplorasi hal baru.  
-- Kalkulator Python ini dibuat oleh **Marvell**, dengan bantuan **AI** dan **teman-teman saya**.  
-- Ke depannya saya berencana mengupdate kalkulator ini untuk meningkatkan skill saya dalam pemrograman Python.  
-- Saya, Marvell, mengucapkan terima kasih kepada **Bu Alfi** dan **teman-teman** yang sudah membantu serta memberikan ilmu kepada saya.  
-- **Terima kasih banyak untuk semua pihak yang telah mendukung saya!**  
+- Program Kalkulator ini dibuat untuk **Project Akhir** jurusan TKJ 1.  
+- Awal pembuatan kalkulator ini bukan hanya untuk project akhir, tetapi juga keinginan saya untuk belajar dan mengeksplorasi hal baru.  
+- Program Python ini dibuat oleh **Marvell**, dengan bantuan **AI** dan **Teman-teman saya**.  
+- Ke depannya saya berencana mengupdate program ini untuk meningkatkan skill saya dalam pemrograman Python.  
+- Saya, Marvell, Berterimakasih kepada **Bu Alfi** dan **Teman-teman** yang sudah membantu serta memberikan ilmu kepada saya. 
