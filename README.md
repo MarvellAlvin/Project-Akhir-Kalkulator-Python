@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img src="https://i.ibb.co.com/pd9kfdy/IMG-20241007-190000.jpg" alt="KALKULATOR SEDERHANA PYTHON" width="200" height="130"/></a>
+<a href="#"><img src="https://i.ibb.co.com/TcQcSF3/Screenshot-2024-12-10-01-26-40-56-84d3000e3f4017145260f7618db1d683-1.jpg" alt="KALKULATOR SEDERHANA PYTHON" width="200" height="130"/></a>
 
 
 </p>
