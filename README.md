@@ -31,6 +31,30 @@ Tambahkan gambar contoh tampilan riwayat perhitungan di bawah ini:
 
 ---
 
+## Termux
+```bash
+apt update -y && apt upgrade -y
+apt install git -y
+apt install python -y
+git clone https://github.com/MarvellAlvin/Project-Akhir-Kalkulator-Python
+cd Project-Akhir-Kalkulator-Python
+pip install -r install.txt
+python main.py
+```
+
+## Terminal Vps Ubuntu 
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install python3-pip
+git clone https://github.com/MarvellAlvin/Project-Akhir-Kalkulator-Python
+cd Project-Akhir-Kalkulator-Python
+pip3 install -r install.txt
+python3 main.py
+```
+
+---
+
 ## Cara Menggunakan
 1. **Jalankan Program**:
    - Pastikan Python terinstal di komputer Anda.
@@ -64,7 +88,11 @@ Program ini menggunakan beberapa modul Python. Pastikan semua modul berikut suda
 - **pystyle**: Untuk memberikan warna dan efek gaya pada terminal.
 - **colorama**: Untuk menambahkan warna pada output terminal.
 
-### Instalasi Dependencies
-Gunakan perintah berikut untuk menginstal dependencies:
-```bash
-pip install pystyle colorama
+### Informasi
+- **Kalkulator Python v.1** adalah kalkulator sederhana yang menggunakan script Python sepenuhnya sehingga mudah dipahami dan bersifat open source untuk diedit.  
+- Kalkulator ini dibuat untuk **Project Akhir Tahun 2024** jurusan TKJ 1.  
+- Awal pembuatan kalkulator ini bukan hanya untuk project akhir, tetapi juga karena keinginan saya untuk belajar dan mengeksplorasi hal baru.  
+- Kalkulator Python ini dibuat oleh **Marvell**, dengan bantuan **AI** dan **teman-teman saya**.  
+- Ke depan, saya berencana mengupdate kalkulator ini untuk meningkatkan skill saya dalam pemrograman Python.  
+- Saya, Marvell, mengucapkan terima kasih kepada **Bu Alfi** dan teman-teman yang sudah membantu serta memberikan ilmu kepada saya.  
+- **Terima kasih banyak untuk semua pihak yang telah mendukung saya!**  
