@@ -1,13 +1,3 @@
-<p align="center">
-<a href="#"><img src="https://i.ibb.co.com/TcQcSF3/Screenshot-2024-12-10-01-26-40-56-84d3000e3f4017145260f7618db1d683-1.jpg" alt="KALKULATOR SEDERHANA PYTHON" width="200" height="130"/></a>
-
-
-</p>
-<p align="center">
-<a href="#"><img title="KALKULATOR SEDERHANA v1" src="https://img.shields.io/badge/KALKULATOR SEDERHANA v1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-</div>
-
 <h1 align="center">PROJECT AKHIR PYTHON</h1>
 
 Proyek ini adalah sebuah aplikasi kalkulator sederhana berbasis **CLI (Command Line Interface)** yang dibuat menggunakan Python. Kalkulator ini mendukung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Selain itu, program ini dilengkapi dengan fitur riwayat perhitungan, tutorial, serta informasi kontak developer.
@@ -30,11 +20,11 @@ Proyek ini merupakan **Project Akhir 2024** dari **11 TKJ 1 SMEKSA**.
 
 ## Tampilan Program
 ### Tampilan Awal
-Tambahkan gambar tampilan awal program Anda di bawah ini:  
+Gambar tampilan awal:  
 ![Tampilan Awal](images/tampilan.jpg)
 
 ### Riwayat Perhitungan
-Tambahkan gambar contoh tampilan riwayat perhitungan di bawah ini:  
+Gambar tampilan riwayat:  
 ![Riwayat Perhitungan](images/riwayat.jpg)
 
 ---
