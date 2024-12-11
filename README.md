@@ -31,11 +31,11 @@ Proyek ini merupakan **Project Akhir 2024** dari **11 TKJ 1 SMEKSA**.
 ## Tampilan Program
 ### Tampilan Awal
 Tambahkan gambar tampilan awal program Anda di bawah ini:  
-![Tampilan Awal](path/to/image1.jpg)
+![Tampilan Awal](images/tampilan.jpg)
 
 ### Riwayat Perhitungan
 Tambahkan gambar contoh tampilan riwayat perhitungan di bawah ini:  
-![Riwayat Perhitungan](path/to/image2.jpg)
+![Riwayat Perhitungan](images/riwayat.jpg)
 
 ---
 
